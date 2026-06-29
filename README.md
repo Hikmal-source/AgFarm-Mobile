@@ -18,7 +18,7 @@
 
 ### 1. Splash & Login Screen
 *Gerbang masuk utama aplikasi yang dilengkapi fitur simpan sandi aman (Remember Me) dan login instan menggunakan sidik jari.*
-![Login AgFarm Mobile](public/login.jpeg)
+![Login AgFarm Mobile](public/login.png)
 
 ### 2. Register Screen
 *Halaman pendaftaran akun petani baru lengkap dengan indikator pemenuhan syarat keamanan password yang interaktif.*
