@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "967622520215",
+    "firebase_url": "https://agfarm-53646-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agfarm-53646",
+    "storage_bucket": "agfarm-53646.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967622520215:android:0621ea4314f1c296e6e8d2",
+        "android_client_info": {
+          "package_name": "com.hikmal.agfarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZGT7aTBObaoeyhBZU985rFN4DGe_rcx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
