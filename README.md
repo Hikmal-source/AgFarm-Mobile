@@ -18,21 +18,29 @@
 
 ### 1. Splash & Login Screen
 *Gerbang masuk utama aplikasi yang dilengkapi fitur simpan sandi aman (Remember Me) dan login instan menggunakan sidik jari.*
-![Login AgFarm Mobile](public/login.png)
+<br>
+<img src="public/login.png" width="260" alt="Login AgFarm Mobile">
 
 ### 2. Register Screen
 *Halaman pendaftaran akun petani baru lengkap dengan indikator pemenuhan syarat keamanan password yang interaktif.*
-![Register AgFarm Mobile](public/register.jpeg)
+<br>
+<img src="public/register.png" width="260" alt="Register AgFarm Mobile">
 
 ### 3. Dashboard Utama (Home Screen)
 *Pusat ringkasan informasi harian yang menyajikan total omset, jumlah tanaman aktif, kapling lahan, serta log aktivitas panen terbaru milik pengguna.*
-![Home AgFarm Mobile](public/utama.jpeg)
+<br>
+<img src="public/utama.png" width="260" alt="Home AgFarm Mobile">
 
 ### 4. Panel Administrasi (Khusus Admin)
 *Fitur panel rahasia yang hanya muncul jika pengguna masuk menggunakan role Admin untuk memantau data seluruh petani.*
-![Admin Panel AgFarm Mobile](public/admin1.jpeg)
+<br>
+<img src="public/admin1.png" width="260" alt="Admin Panel AgFarm Mobile 1">
+
 *Informasi data user pada halaman admin dan ada beberapa mitra terdaftar pada sistem AgFarm.*
-![Admin Panel AgFarm Mobile](public/admin2.jpeg)
+<br>
+<img src="public/admin2.png" width="260" alt="Admin Panel AgFarm Mobile 2">
+
+---
 
 ## 🛠️ Tech Stack & Fitur Unggulan
 * **UI Framework:** Full Jetpack Compose (Declarative UI) dengan Material Design 3.
